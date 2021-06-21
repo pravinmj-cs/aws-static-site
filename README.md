@@ -2,8 +2,6 @@
 
 ## Deploy Static Website on AWS
 
-**Please refer to the website [here](https://d1q7llnym8j1fj.cloudfront.net/)**
-
 In this sample project, a static website was deployed to AWS using S3, CloudFront, and IAM.
 
 The files included are: 
